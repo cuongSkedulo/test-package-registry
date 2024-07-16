@@ -1,5 +1,5 @@
 {
-    "name": "Name",
-    "formatVersion": "1.0.0",
-    "description": "Description"
-  }
+  "name": "Name",
+  "formatVersion": 1,
+  "description": "Description"
+}
